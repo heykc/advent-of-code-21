@@ -1,0 +1,39 @@
+:root {
+  --sea: #08415c;
+  --sea-foam: #42979e;
+  --dark-sea: #22333b;
+  --sludge: #6b818c;
+  --live-wire: #f2ae40;
+  --icicle: #e0fbfc;
+
+  font-family: 'Zilla Slab', serif;
+  font-weight: 300;
+  font-size: 120%;
+  color: var(--sludge);
+}
+
+html,
+body {
+  background-color: var(--dark-sea);
+}
+
+::selection {
+  background-color: var(--icicle);
+  color: var(--dark-sea);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--sea-foam);
+  // font-style: italic;
+  font-weight: 500;
+}
+
+a,
+a:visited {
+  color: var(--live-wire);
+}
