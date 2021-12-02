@@ -23,4 +23,4 @@
 
 <h2>Day 2: Dive!</h2>
 
-<p>Work in progress...{coords.x * coords.y}</p>
+<p>Work in progress...</p>
