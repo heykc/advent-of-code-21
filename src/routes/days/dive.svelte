@@ -23,4 +23,6 @@
 
 <h2>Day 2: Dive!</h2>
 
-<p>Work in progress...</p>
+<p>Step 1: {coords.x * coords.y}</p>
+
+<p>Step 2: WIP...</p>
