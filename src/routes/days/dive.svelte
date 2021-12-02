@@ -5,7 +5,6 @@
 
   $: {
     $directions.forEach((dir) => {
-      debugger;
       const [d, v] = dir.split(/\s+/);
 
       if (d.includes('forward')) {
